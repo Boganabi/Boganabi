@@ -1,3 +1,5 @@
+# Welcome!
+
 - 👋 Hi, I’m @Boganabi
 - 👀 I’m interested in developing software for various purposes! I like to work in software development in general, so I'm always open to options!
 - 🌱 I’m currently learning about web development!
@@ -15,7 +17,7 @@
 - HTML
 - C
 
-# Game engines I have experience with (most experience to least)
+## Game engines I have experience with (most experience to least)
 
 - Unreal Engine
 - Unity
