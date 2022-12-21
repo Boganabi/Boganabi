@@ -10,12 +10,13 @@
 
 - C++
 - Python
+- Javascript / NodeJS
 - C#
-- Javascript
 - React
 - CSS
 - HTML
 - C
+- R
 
 ## Game engines I have experience with (most experience to least)
 
